@@ -1,0 +1,106 @@
+h1{
+    color: rgb(99, 122, 159);   
+  }
+#myphoto{
+    border-radius: 50%;
+    height: 150px;
+}
+.one{
+    background-color: rgb(232, 200, 114);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    height: 100vh;
+}
+.lead.mb-4{
+    color: rgb(99, 122, 159);
+    font-weight:400;
+}
+.two{
+    background-color: rgb(255, 243, 207);
+    
+}
+
+.header{
+    background-color: rgb(232, 200, 114);
+}
+.dropdown-menu{
+    background-color: rgb(255, 243, 207);
+}
+h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: rgb(99, 122, 159);
+}
+
+#aboutme > div > div > div.col-lg-7.text-center.text-lg-start > p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 40px;
+    color: rgb(99, 122, 159);
+    line-height: 1.5;
+}
+    
+#aboutme > div > div.col-10.col-sm-8.col-lg-6{
+    height: 300px;
+    width: 300px;
+}
+.social-btn {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: px;
+    transition: background-color 0.3s ease;
+  }
+.instagram-btn {
+    background-color: #bc2a8d;
+  }
+
+.linkedin-btn {
+    background-color: #0077b5;
+  }
+.gmail-btn {
+    background-color: #3b5998;}
+#smbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    margin-top: 0;
+    padding-bottom: 30px;
+}
+.icon{
+    height: 25px;
+    width: 25px;
+}
+.three{
+    background-color: rgb(255, 243, 207);
+}
+.three>div>h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: rgb(99, 122, 159);
+}
+.three>div>p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: rgb(99, 122, 159);
+    line-height: 1.5;
+}
+#footer{
+    background-color: rgb(201, 215, 221);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    max-width:1500px;
+    margin: 0;
+}
+
+
